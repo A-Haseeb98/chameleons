@@ -39,7 +39,7 @@ const Footer = () => {
           </Typography>
         </Grid>
         <Grid item xs={12} sm={6} md={3} className={styles._social_links}>
-          <a href="https://opensea.io/collection/cauligenous-chameleons" target="_blank" rel="noopener noreferrer">
+          <a href="https://opensea.io/collection/cauligenouschameleons8bit" target="_blank" rel="noopener noreferrer">
             <RiShip2Fill className={styles._social_icon} />
           </a>
           <a href="https://www.instagram.com/cauligenouschameleons/" target="_blank" rel="noopener noreferrer">

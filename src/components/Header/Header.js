@@ -131,7 +131,7 @@ const Header = ({
                         }}
                       >
                         <li className={styles.nav_item}>
-                          <a href="https://opensea.io/collection/cauligenous-chameleons" target="_blank" rel="noopener noreferrer">
+                          <a href="https://opensea.io/collection/cauligenouschameleons8bit" target="_blank" rel="noopener noreferrer">
                             <RiShip2Fill className={styles._social_icon} />
                           </a>
                         </li>
@@ -264,7 +264,7 @@ const Header = ({
                     }}
                   >
                     <li className={styles.icon_nav_item}>
-                      <a href="https://opensea.io/collection/cauligenous-chameleons" target="_blank" rel="noopener noreferrer">
+                      <a href="https://opensea.io/collection/cauligenouschameleons8bit" target="_blank" rel="noopener noreferrer">
                         <RiShip2Fill className={styles._social_icon} />
                       </a>
                     </li>

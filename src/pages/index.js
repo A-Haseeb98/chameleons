@@ -79,7 +79,7 @@ export default function Home() {
           impactSection={impactSection}
         />
         {/* até aqui deu boa */}
-         <div className="custom_container">
+        <div className="custom_container">
           <section ref={introDiv}>
             <Space />
           </section>
@@ -95,13 +95,13 @@ export default function Home() {
           </section>
           <section>
             <SneakPeek />
-          </section> 
+          </section>
           {/* <section>
             <HeroCarousel />
           </section> */}
           <section ref={featuresDiv}>
             {/* <Features /> */}
-             <FeaturesReload />
+            <FeaturesReload />
           </section>
           <section ref={impactDiv}>
             <Impact />
@@ -128,7 +128,7 @@ export default function Home() {
           </section>
           <TheNewEraEmpireIsComing />
           <Footer />
-        </div> 
+        </div>
       </section>
     </div>
   );
